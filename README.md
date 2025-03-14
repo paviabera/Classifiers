@@ -61,8 +61,8 @@ python iris_classification.py
 The K-Nearest Neighbors model achieved high accuracy in predicting the Iris species, making it suitable for reliable classification tasks.
 
 ## Author
-- **Your Name**
-- **Contact:** your-email@example.com
+- **Pavia Bera**
+- **Contact:** paviabera@usf.edu
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
