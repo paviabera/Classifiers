@@ -44,7 +44,7 @@ This project demonstrates the use of machine learning algorithms to classify Iri
 ## Running the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/paviabera/Classifiers
 ```
 
 2. Install dependencies (if needed):
